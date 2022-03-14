@@ -12,8 +12,8 @@
 [Zetsu](https://dcsyhi1998.github.io/depiction/zetsu)
 
 ## Status
-[![Dcsyhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dcsyhi1998&theme=gruvbox&show_icons=true)](https://github.com/Dcsyhi1998)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dcsyhi1998&layout=compact&theme=gruvbox)](https://github.com/Dcsyhi1998)
+[![Dcsyhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dcsyhi1998&theme=gruvbox&show_icons=true)](https://github.com/Dcsyhi1998)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
